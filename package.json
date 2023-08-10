@@ -1,5 +1,5 @@
 {
-  "name": "@jspdf/font",
+  "name": "jspdf-font",
   "version": "0.0.2",
   "description": "Font package for jspdf",
   "main": "./dist/index.js",
